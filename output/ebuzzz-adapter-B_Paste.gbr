@@ -1,14 +1,15 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.1.4-e60b266~84~ubuntu18.04.1*
-G04 #@! TF.CreationDate,2019-10-19T15:57:42+02:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.6)-1*
+G04 #@! TF.CreationDate,2020-11-13T23:39:30+01:00*
 G04 #@! TF.ProjectId,ebuzzz-adapter,6562757a-7a7a-42d6-9164-61707465722e,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Paste,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 5.1.4-e60b266~84~ubuntu18.04.1) date 2019-10-19 15:57:42*
+G04 Created by KiCad (PCBNEW (5.1.6)-1) date 2020-11-13 23:39:30*
 %MOMM*%
 %LPD*%
+G01*
 G04 APERTURE LIST*
 G04 APERTURE END LIST*
 M02*
