@@ -697,7 +697,7 @@ F 0 "J4" H 10618 3125 50  0000 C CNN
 F 1 "EBUS" H 10618 3216 50  0000 C CNN
 F 2 "Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.81_1x02_P3.81mm_Horizontal" H 10700 3450 50  0001 C CNN
 F 3 "~" H 10700 3450 50  0001 C CNN
-F 4 "2008015" H 10700 3450 50  0001 C CNN "Farnell"
+F 4 "C69811" H 10700 3450 50  0001 C CNN "LCSC"
 	1    10700 3450
 	1    0    0    1   
 $EndComp
@@ -806,8 +806,9 @@ U 1 1 5FB0CF91
 P 950 2450
 F 0 "J1" H 1007 2917 50  0000 C CNN
 F 1 "USB_A" H 1007 2826 50  0000 C CNN
-F 2 "Connector_USB:USB_A_CNCTech_1001-011-01101_Horizontal" H 1100 2400 50  0001 C CNN
+F 2 "ebuzzz-adapter:XKB_Connectivity_U217-041N-4BV81" H 1100 2400 50  0001 C CNN
 F 3 " ~" H 1100 2400 50  0001 C CNN
+F 4 "C319178" H 950 2450 50  0001 C CNN "LCSC"
 	1    950  2450
 	1    0    0    -1  
 $EndComp
@@ -978,10 +979,10 @@ L Power_Protection:SP0503BAHT D7
 U 1 1 5FDDAE94
 P 1600 2950
 F 0 "D7" H 1805 2996 50  0000 L CNN
-F 1 "SP0503BAHT" H 1805 2905 50  0000 L CNN
+F 1 "TPSP0503BAHTG" H 1805 2905 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-143" H 1825 2900 50  0001 L CNN
 F 3 "http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf" H 1725 3075 50  0001 C CNN
-F 4 "C7074" H 1600 2950 50  0001 C CNN "LCSC"
+F 4 "C2682275" H 1600 2950 50  0001 C CNN "LCSC"
 	1    1600 2950
 	1    0    0    -1  
 $EndComp
@@ -1203,4 +1204,6 @@ F 3 "" H 4700 2700 50  0001 C CNN
 	1    4700 2700
 	1    0    0    -1  
 $EndComp
+Text Notes 10600 7650 0    50   ~ 0
+V1.2
 $EndSCHEMATC
